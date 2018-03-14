@@ -1,7 +1,7 @@
 FROM alpine:3.5
 LABEL "Maintainer"="MrBiTs"
 LABEL "e-mail"="mrbits.dcf@gmail.com"
-LABEL "version"="0.1.0"
+LABEL "version"="0.1.1"
 
 
 RUN \
