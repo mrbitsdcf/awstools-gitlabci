@@ -1,7 +1,7 @@
 FROM alpine:latest
 LABEL "Maintainer"="MrBiTs"
 LABEL "e-mail"="mrbits.dcf@gmail.com"
-LABEL "version"="3.0.0"
+LABEL "version"="3.0.1"
 
 RUN \
   apk update && \
